@@ -1,2 +1,2 @@
 # Image-Forgery-Algorithm
-Generation algorithm that makes use of polygons to recreate an image.
+An algorithm that uses polygons and <a href="https://p5js.org/">p5.js</a>
